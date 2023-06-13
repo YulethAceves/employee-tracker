@@ -19,7 +19,7 @@ function startEmployeeTracker() {
     inquirer.prompt([
         {
             type: "list",
-            choices: ["View Department", "View Roles", "View Employee", "Add Department", "Add Roles", "Add Employee", "Update employee rike", 
+            choices: ["View Department", "View Roles", "View Employee", "Add Department", "Add Roles", "Add Employee", "Update employee role", 
             "Exit Application"],
             message: "what would you like to do?",
             name: "options"
