@@ -33,12 +33,11 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ## Demonstration
 
-[Link to Demo]()  
+[Link to Demo](https://drive.google.com/file/d/1l51KK8d-nUsx8tgMeqDLkscUmLZQCN5u/view)  
 
 ## Screenshots
 
-![screenshot]()  
-![screenshot]()
+![screenshot](./assets/Screenshot%202023-06-14%20at%2017.59.47.png)  
 
 ## Contact
 [Yuleth Aceves Github](https://github.com/YulethAceves)
